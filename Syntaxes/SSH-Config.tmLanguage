@@ -8,6 +8,8 @@
 		<string>.ssh/config</string>
 		<string>sshd_config</string>
 	</array>
+	<key>keyEquivalent</key>
+	<string>^~S</string>
 	<key>name</key>
 	<string>SSH Config</string>
 	<key>patterns</key>
